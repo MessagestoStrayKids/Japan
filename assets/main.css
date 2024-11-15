@@ -5,7 +5,11 @@ body {
 		line-height: 1.0;
 		}
 ul {
+		list-style-type: none;
 		padding-left: 30px;
+		}
+		li {
+		color: rgba(67, 67, 67, 1);
 		}
 		img {
 		max-width: 100%;
