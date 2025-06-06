@@ -78,7 +78,7 @@
 	h4 {
 		border-bottom: 2px solid transparent;
 		background:  url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg"); /*border-image: linear-gradient(45deg, rgba(24, 75, 140, 1) 5%, rgba(230, 110, 135, 1) 90%) 1;*/
-		background-clip: border-area;
+		-webkit-background-clip: border-area;
 		background: #000000;
 		color: #FFFFFF;
 		font-family: 'Bakbak One';
@@ -88,6 +88,7 @@
 		}
 	h5 {
 		background: url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg"); /*color: rgba(24, 75, 140, 1);*/
+		background-size: auto;
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
 		text-align: left;
