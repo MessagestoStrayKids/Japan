@@ -50,18 +50,18 @@
 		text-align: center;
 		background: url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg"); /*background: linear-gradient(45deg, rgba(94, 255, 255, 1) 5%, rgba(24, 75, 140, 1) 90%);*/
 		background-size:100% 100%;
-		border: 5px solid transparent;
+		border: 5px solid #FFFFFF;
 		color: #FFFFFF;
 		font-family: 'Bakbak One';
 		font-style: Bold;
 		font-size: 56px;
 		}
-	h2 {
-		border-width: 4px solid transparent;
-  background-image: url("wooden-table.jpg");
-  background-size: cover;
-  background-origin: border-box;
-  background-clip: border-area;
+	h2 {		
+		  background-image: url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg");
+		  background-size: 100% 100%;
+		  border-width: 4px solid transparent;
+		background: #000000;  
+		background-size: 90% 90%;
 		color: #FFFFFF;
 		font-family: 'Bakbak One';
 		font-style: Bold;
