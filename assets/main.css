@@ -50,7 +50,7 @@
 		text-align: center;
 		background: url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg"); /*background: linear-gradient(45deg, rgba(94, 255, 255, 1) 5%, rgba(24, 75, 140, 1) 90%);*/
 		background-size:100% 100%;
-		border: 5px solid #FFFFFF;
+		border: 5px solid transparent;
 		color: #FFFFFF;
 		font-family: 'Bakbak One';
 		font-style: Bold;
