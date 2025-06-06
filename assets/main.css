@@ -58,6 +58,7 @@
 		}
 	h2 {		
 		border-image:  url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg") 100 Stretch;
+		border-image-width: 4px;
 		border-bottom: 4px solid transparent;
 		border-top: 4px solid transparent;
 		border-left: 4px solid transparent;
