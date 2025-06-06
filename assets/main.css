@@ -65,7 +65,7 @@
 		font-style: Bold;
 		font-size: 36px;
 		}
-	h3 {
+	/*h3 {
 		border-radius: 25px;
 		background: linear-gradient(45deg, rgba(94, 255, 255, 1) 5%, rgba(24, 75, 140, 1) 90%);
 		color: #FFFFFF;
@@ -73,8 +73,8 @@
 		font-size: 24px;
 		padding: 10px;
 		text-align: center;
-		}
-	h4 {
+		}*/
+	h3 {
 		border-image:  url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg") 100 Stretch;
 		border-bottom: 3px solid transparent;
 		background: #000000;
@@ -84,7 +84,7 @@
 		font-size: 26px;
 		text-align: left;
 		}
-	h5 {
+	h4 {
 		background: url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg"); /*color: rgba(24, 75, 140, 1);*/
 		background-size: cover;
 		-webkit-background-clip: text;
