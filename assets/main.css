@@ -57,8 +57,7 @@
 		font-size: 56px;
 		}
 	h2 {		
-		background: url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg"); 
-		background-size: cover;
+		border-image:  url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg") 100 Stretch;
 		border: 4px solid transparent;
 		background: #000000;
 		background-clip: padding-box;
