@@ -57,9 +57,9 @@
 		font-size: 56px;
 		}
 	h2 {
-		border: 4px solid rgba(254, 0, 0, 1);
+		border: 4px solid transparent;
 		background: url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg"); /*linear-gradient(45deg, rgba(24, 75, 140, 1) 5%, rgba(94, 255, 255, 1) 90%) 1;*/
-		background-clip: 10px;
+		-webkit-background-clip: border-area;
 		background: #000000;
 		color: #FFFFFF;
 		font-family: 'Bakbak One';
