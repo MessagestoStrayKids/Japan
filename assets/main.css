@@ -161,8 +161,7 @@
 		}
 
 		.dropbtn {
-		  background: url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg");
-		background-clip: content-box;
+		  background: url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg") auto;
 		  color: white;
 		  font-family: 'Bakbak One';
 		font-style: Bold;
