@@ -48,7 +48,7 @@
 		}
 	h1 {
 		text-align: center;
-		background: url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg"); /*background: linear-gradient(45deg, rgba(94, 255, 255, 1) 5%, rgba(24, 75, 140, 1) 90%);*/
+		background: url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg"); 
 		background-size:100% 100%;
 		border: 5px solid #FFFFFF;
 		color: #FFFFFF;
@@ -57,12 +57,8 @@
 		font-size: 56px;
 		}
 	h2 {		
-		border-image:  url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg") 100 Stretch;
-		border-image-width: 4px;
-		border-bottom: 4px solid transparent;
-		border-top: 4px solid transparent;
-		border-left: 4px solid transparent;
-		border-right: 4px solid transparent;
+		background: url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg"); 
+		background-size:100% 100%;
 		background: #000000;
 		background-clip: padding-box;
 		color: #FFFFFF;
