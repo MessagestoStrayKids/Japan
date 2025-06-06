@@ -62,7 +62,7 @@
 		background-size: cover;
  		background-origin: border-box;
   		background-clip: border-area;
-		/*background: #000000;*/
+		background: #000000;
 		color: #FFFFFF;
 		font-family: 'Bakbak One';
 		font-style: Bold;
@@ -83,7 +83,7 @@
 		background-size: cover;
  		background-origin: border-box;
   		background-clip: border-area;
-		/*background: #000000;*/
+		background: #000000;
 		color: #FFFFFF;
 		font-family: 'Bakbak One';
 		font-style: Bold;
@@ -92,7 +92,7 @@
 		}
 	h5 {
 		background: url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg"); /*color: rgba(24, 75, 140, 1);*/
-		background-clip: content-box;
+		background-size: cover;
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
 		text-align: left;
@@ -148,7 +148,7 @@
 
 		mark {
 		background: url("https://i.ibb.co/GQm3tyY4/Screenshot-20250606-121331-X.jpg");
-		background-clip: content-box;
+		background-size: cover;
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
 		font-family: 'Bakbak One';
