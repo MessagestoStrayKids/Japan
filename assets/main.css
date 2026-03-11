@@ -78,9 +78,8 @@
 		text-align: center;
 		}*/
 	h4 {
-		/*border-image:  url("https://i.ibb.co/Xrg2v1hr/DoitPink.jpg") 100 Stretch;
-		border-bottom: 3px solid transparent;*/
-		border-bottom: linear-gradient(45deg, rgb(250, 233, 239, 1) 5%, rgba(252, 246, 214, 1) 50%, rgba(147, 181, 229, 1) 90%);
+		/*border-image:  url("https://i.ibb.co/Xrg2v1hr/DoitPink.jpg") 100 Stretch;*/
+		border-bottom: 3px solid linear-gradient(45deg, rgb(250, 233, 239, 1) 5%, rgba(252, 246, 214, 1) 50%, rgba(147, 181, 229, 1) 90%) /*transparent*/;
 		background: #000000; 
 		color: #FFFFFF;
 		font-family: 'Bakbak One';
