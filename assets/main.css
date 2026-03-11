@@ -153,26 +153,28 @@ details > summary {
 		}
 
 		mark {
-		background: url("https://i.ibb.co/Xrg2v1hr/DoitPink.jpg");
+		/*background: url("https://i.ibb.co/Xrg2v1hr/DoitPink.jpg");
 		background-size: cover;
 		-webkit-background-clip: text;
-		-webkit-text-fill-color: transparent;
+		-webkit-text-fill-color: transparent;*/
+		Color: rgb(250, 233, 239, 1);
 		font-family: 'Bakbak One';
 		font-size: 18px;
 		}
 
 		s {
-		background: url("https://i.ibb.co/TDZRz14k/20251020-040438.jpg");
+		/*background: url("https://i.ibb.co/TDZRz14k/20251020-040438.jpg");
 		background-size: cover;
 		-webkit-background-clip: text;
-		-webkit-text-fill-color: transparent;
+		-webkit-text-fill-color: transparent;*/
+		Color: rgb(252, 246, 214, 1);
 		font-family: 'Bakbak One';
 		font-size: 18px;
 		text-decoration: none;
 		}
 
 		input[type='checkbox'] {
-		accent-color: rgba(255, 183, 206, 1);
+		accent-color: rgba(252, 246, 214, 1);
 		transform : scale(1.5);
 		margin-right: 8%;
 		margin-top: 3%;
@@ -204,7 +206,7 @@ details > summary {
 		}
 		
 		.dropdown-content a {
-		  color: rgba(255, 183, 206, 1);
+		  color: rgba(250, 233, 239, 1);
 		  padding: 12px 16px;
 		font-family: 'Bakbak One';
 		  text-decoration: none;
@@ -213,9 +215,9 @@ details > summary {
 		
 		.dropdown:hover .dropdown-content {display: block;}
 		
-		.dropdown-content a:hover {background-color: rgba(85, 85, 85, 1);}
+		.dropdown-content a:hover {background-color: rgba(252, 246, 214, 1);}
 		
-		.dropdown:hover .dropbtn {background-color: rgba(85, 85, 85, 1);}
+		.dropdown:hover .dropbtn {background-color: rgba(252, 246, 214, 1);}
 		
 		.button-85 {
 		  padding: 0.2em 0.6em;
