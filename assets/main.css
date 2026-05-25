@@ -177,6 +177,13 @@ details > summary {
 		margin-bottom: 3%;
 		}
 
+		.floating-button {
+		  position: fixed;   /* Keeps the button in the same spot on scroll */
+		  bottom: 20px;      /* Distance from the bottom of the viewport */
+		  left: 20px;       /* Distance from the right of the viewport */
+		  z-index: 1000;     /* Ensures it sits on top of other content */
+		}
+
 
 		.dropbtn {
 		  padding: 0.2em 0.6em;
