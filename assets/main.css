@@ -182,6 +182,7 @@ details > summary {
 		  bottom: 20px;      /* Distance from the bottom of the viewport */
 		  left: 20px;       /* Distance from the right of the viewport */
 		  z-index: 1000;     /* Ensures it sits on top of other content */
+			all: unset;
 		}
 
 
